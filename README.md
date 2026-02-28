@@ -6,7 +6,7 @@
 
 ---
 
-I'm a self-taught fullstack developer from bavaria  
+I'm a self-taught fullstack developer from Frankfurt am Main!!  
 :man_technologist: Working as Office Management  
 
 :gear: I use daily: ``.js`` ``.lua`` ``.ts`` ``.html`` ``.css``  
